@@ -1,0 +1,13 @@
+html, body{
+    background-color: rgb(255, 153, 0);
+}
+
+#pic{
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width:500px;
+    
+}
